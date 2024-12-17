@@ -27,5 +27,6 @@ Desenvolvedor apaixonado por transformar ideias em código. Sempre em busca de n
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
   <a href="mailto:joaotakamori47@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
+  <a href="https://www.instagram.com/joaotakamori/profilecard/?igsh=cDlsajd0Z3Rwanh1"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram"></a>
 </p>
 
