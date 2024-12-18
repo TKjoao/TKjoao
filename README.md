@@ -25,8 +25,10 @@ Desenvolvedor apaixonado por transformar ideias em código. Sempre em busca de n
 
 ## 🌟 **Conecte-se comigo**  
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
-  <a href="mailto:joaotakamori47@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
-  <a href="https://www.instagram.com/joaotakamori/profilecard/?igsh=cDlsajd0Z3Rwanh1"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram"></a>
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" onclick="window.location.href='https://www.linkedin.com/in/seu-linkedin'">
+  <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" onclick="window.location.href='mailto:joaotakamori47@gmail.com'">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram" onclick="window.location.href='https://www.instagram.com/joaotakamori/profilecard/?igsh=cDlsajd0Z3Rwanh1'">
+  <img src="https://img.shields.io/badge/-Google%20Drive-0F9D58?logo=google-drive&logoColor=white&style=flat-square" alt="Google Drive" onclick="window.location.href='https://drive.google.com/file/d/1KqGIt7gqXdTvYMif_t5kfZUoWXwn4XqO/view?usp=sharing'">
 </p>
+
 
