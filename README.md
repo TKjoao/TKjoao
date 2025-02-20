@@ -9,7 +9,7 @@ Desenvolvedor apaixonado por transformar ideias em código. Sempre em busca de n
 
 ## 🛠️ **Linguagens e Ferramentas**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,react,python,php,sql,mongodb,mariadb" alt="Linguagens e Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,react,python,php,mysql,mongodb,mariadb" alt="Linguagens e Tecnologias" />
 </p>
 
 ---
@@ -29,4 +29,3 @@ Desenvolvedor apaixonado por transformar ideias em código. Sempre em busca de n
   <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" onclick="window.location.href='mailto:joaotakamori47@gmail.com'">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram" onclick="window.location.href='https://www.instagram.com/joaotakamori/profilecard/?igsh=cDlsajd0Z3Rwanh1'">
 </p>
-
