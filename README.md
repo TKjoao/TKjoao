@@ -9,7 +9,8 @@ Desenvolvedor apaixonado por transformar ideias em código. Sempre em busca de n
 
 ## 🛠️ **Linguagens e Ferramentas**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,react,python,php,mysql,mongodb,mariadb" alt="Linguagens e Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,react,python,php,mysql,mongodb" alt="Linguagens e Tecnologias" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" title="MariaDB" width="40" height="40">
 </p>
 
 ---
