@@ -9,7 +9,7 @@ Desenvolvedor apaixonado por transformar ideias em código. Sempre em busca de n
 
 ## 🛠️ **Linguagens e Ferramentas**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,react,python,php" alt="Linguagens e Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,react,python,php,SQL" alt="Linguagens e Tecnologias" />
 </p>
 
 ---
