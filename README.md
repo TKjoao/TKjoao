@@ -17,9 +17,9 @@ Desenvolvedor apaixonado por transformar ideias em código. Sempre em busca de n
 
 ## 📊 **Estatísticas do GitHub**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TKjoao&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TKjoao&show_icons=true&theme=dark&cache_seconds=0" alt="Estatísticas do GitHub" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKjoao&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKjoao&layout=compact&theme=dark&cache_seconds=0" alt="Linguagens mais usadas" />
 </p>
 
 ---
